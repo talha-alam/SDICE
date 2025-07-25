@@ -1,6 +1,6 @@
 # Introducing SDICE: An Index for Assessing Diversity of Synthetic Medical Datasets
 
-[![Paper](https://img.shields.io/badge/Paper-Available-green)]([https://github.com/your-repo/sdice](https://bmva-archive.org.uk/bmvc/2024/workshops/PFATCV/12_Introducing_SDICE_An_Index_.pdf))
+[![Paper](https://img.shields.io/badge/Paper-Available-green)]((https://bmva-archive.org.uk/bmvc/2024/workshops/PFATCV/12_Introducing_SDICE_An_Index_.pdf))
 [![Code](https://img.shields.io/badge/Code-Coming%20Soon-yellow)](https://github.com/your-repo/sdice)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
